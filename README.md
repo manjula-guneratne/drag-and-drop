@@ -9,3 +9,6 @@ Here the event that it's listening to is 'dragging'. Also 'getBoundingClientReac
 * HTML
 * CSS
 * JavaScript
+
+## Reference source
+https://www.youtube.com/watch?v=jfYWwQrtzzY&ab_channel=WebDevSimplified
